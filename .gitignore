@@ -1,0 +1,11 @@
+
+**/data/
+**/venv/
+**/project_env/
+**/__pycache__/
+
+*.db
+*.env
+
+*.DS_Store
+
