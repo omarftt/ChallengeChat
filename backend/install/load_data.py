@@ -71,9 +71,6 @@ documents = load_docs(PATH_DIRECTORY)
 docs = split_docs(documents)
 embedding_loader(docs, config.Config.EMBEDDING_MODEL, BATCH_LIMIT)
 
-# print(len(docs))
-# print(docs[0])
-# print(len(docs[0]))
 
 
 

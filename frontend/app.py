@@ -1,4 +1,4 @@
-from openai import OpenAI
+
 import streamlit as st
 import shelve
 from utils.api_calls import generate_text_llm

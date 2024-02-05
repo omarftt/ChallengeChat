@@ -14,7 +14,7 @@ def generate_text_llm(host:str, question: str, token_api: str):
     })
 
     headers = {
-        'Authorization': f"{token_api}",
+        'Authorization': f"Bearer {token_api}",
         'Content-Type': 'application/json'
     }
 
