@@ -1,5 +1,8 @@
 # Challenge Chat App 
 
+![System Architecture](images/app.png)
+![System Architecture](images/app2.png)
+
 ## Description
 Challenge Chat App is an application that allows you to ask questions related to AWS Documentation.
 

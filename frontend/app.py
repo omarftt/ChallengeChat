@@ -5,7 +5,8 @@ from utils.api_calls import generate_text_llm
 from config import Config
 
 
-st.title("Amazon Documentacion Chatbot")
+st.title("Challenge Chat App")
+st.markdown('#')
 
 USER_AVATAR = "👤"
 BOT_AVATAR = "🖥️"
