@@ -51,17 +51,17 @@ This application employs a token for sending requests between Streamlit and the 
 
 1. Insert TOKEN_API in frontend:
     ```bash
-    # Create a .env file and insert TOKEN API value
+    # In the config.py file, modify python class Config with TOKEN API value
     TOKEN_API = "##INSERT VALUE HERE##"
     ```
 2. Insert TOKEN_API in backend:
     ```bash
-    # In the config.py file, modify python class Config with TOKEN API value
+    # Create a .env file and insert TOKEN API value
     TOKEN_API = "##INSERT VALUE HERE##"
     ```
 
 
-## Comming Soon ... 
+## Comming Soon (Deployment) ... 
 To deploy this application, the follow architecture is proposed:
 [GCP Architecture](https://res.cloudinary.com/unicloud010/image/upload/v1707173041/GCP_apdqhg.png)
 
