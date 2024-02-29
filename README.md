@@ -1,4 +1,4 @@
-# Documents Chat App 
+# Document Chat App 
 
 ![System Architecture](images/app.png)
 ![System Architecture](images/app2.png)
