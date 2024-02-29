@@ -1,7 +1,7 @@
-# Frontend - Challenge Chat App 
+# Frontend - Document Chat App 
 
 ## Description
-This repository contains the frontend service implemented for the Challenge Chat App using Streamlit
+This repository contains the frontend service implemented for the Document Chat App using Streamlit
 
 ## Installation
 
