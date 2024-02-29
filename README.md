@@ -1,10 +1,10 @@
-# Challenge Chat App 
+# Documents Chat App 
 
 ![System Architecture](images/app.png)
 ![System Architecture](images/app2.png)
 
 ## Description
-Challenge Chat App is an application that allows you to ask questions related to AWS Documentation.
+Documents Chat App is an application that allows you to ask questions related to AWS Documentation (or whatever markdown files).
 
 ## Pre-requisites
 To use this app, you should have access to the following resources:
