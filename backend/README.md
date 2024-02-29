@@ -1,7 +1,7 @@
-# Backend - Challenge Chat App 
+# Backend - Document Chat App 
 
 ## Description
-This repository contains the backend API implemented for the Challenge Chat App using Flask.
+This repository contains the backend API implemented for the Document Chat App using Flask.
 
 ## Configuration Pinecone
 
